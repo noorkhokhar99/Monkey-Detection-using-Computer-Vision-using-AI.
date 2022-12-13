@@ -28,3 +28,9 @@ pip install -r requirements.txt
 ## Example Results
 ![Example Results](https://github.com/noorkhokhar99/Monkey-Detection-using-Computer-Vision-using-AI./blob/main/Screen%20Shot%202022-12-13%20at%203.18.09%20pm.png)
 
+
+# Pyresearch
+![Pyresearch](https://github.com/noorkhokhar99/Monkey-Detection-using-Computer-Vision-using-AI./blob/main/WhatsApp%20Image%202022-12-08%20at%205.18.33%20PM.jpeg)
+
+
+
